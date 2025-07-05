@@ -1,32 +1,16 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
-# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-
-# VSCode settings folder
 .vscode/
-
-# macOS Finder files
 .DS_Store
-
-# Python virtual environments
 venv/
 .env/
 env/
 ENV/
-
-# Distribution / packaging
 build/
 dist/
 *.egg-info/
-
-# Logs and databases
 *.log
 *.sqlite3
-
-# Git LFS placeholder (if you decide to track .npy via LFS)
-# Add .gitattributes to your repo after running `git lfs track "*.npy"`
 .gitattributes
